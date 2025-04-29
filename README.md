@@ -44,4 +44,4 @@ This repository showcases an end-to-end **Content-Based Movie Recommender System
 ---
 
 ## 🖼️ System Architecture Diagrams
-![Architecture](https://www.researchgate.net/profile/Ansgar-Koene/publication/300884439/figure/fig1/AS:669651093041152@1536641323282/High-level-architecture-of-a-Content-based-recommender-system.png)
+![Architecture](https://github.com/harshjoshi08/Movie-Recommender-System/blob/main/System%20Architecture.jpg)
