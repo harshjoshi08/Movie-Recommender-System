@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Harsh Works\code\Movie Recommender System\venv1"
+VIRTUAL_ENV="C:\Harsh Works\code\Movie Recommender System\Movie-Recommender-System\venv1"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
